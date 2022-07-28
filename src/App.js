@@ -5,6 +5,7 @@ import About from './screens/About';
 import Contact from './screens/Contact'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './screens/Home';
+import Footer from './components/Footer';
 function App() {
   return (
     <BrowserRouter>
@@ -16,6 +17,7 @@ function App() {
         <Route path='/contact' element={<Contact/>} />
        
       </Routes>
+      <Footer/>
     </div>
     </BrowserRouter>
    
