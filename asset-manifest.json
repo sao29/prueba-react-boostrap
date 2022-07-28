@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prueba-react-boostrap/static/css/main.bd1573ab.css",
+    "main.js": "/prueba-react-boostrap/static/js/main.f62b0e06.js",
+    "static/js/787.7be634d9.chunk.js": "/prueba-react-boostrap/static/js/787.7be634d9.chunk.js",
+    "index.html": "/prueba-react-boostrap/index.html",
+    "main.bd1573ab.css.map": "/prueba-react-boostrap/static/css/main.bd1573ab.css.map",
+    "main.f62b0e06.js.map": "/prueba-react-boostrap/static/js/main.f62b0e06.js.map",
+    "787.7be634d9.chunk.js.map": "/prueba-react-boostrap/static/js/787.7be634d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1573ab.css",
+    "static/js/main.f62b0e06.js"
+  ]
+}
